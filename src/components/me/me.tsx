@@ -1,4 +1,5 @@
 import styles from './me.module.scss'
+import me from '../../../public/me.png'
 
 type MeProps = Omit<
   React.DetailedHTMLProps<
@@ -8,5 +9,5 @@ type MeProps = Omit<
   'src'
 >
 export const Me = ({ ...imgProps }: MeProps) => (
-  <img className={styles.me} src="../../public/me.png" {...imgProps} />
+  <img className={styles.me} src={me} {...imgProps} />
 )
