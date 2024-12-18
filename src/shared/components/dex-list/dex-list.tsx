@@ -3,7 +3,7 @@ import pumpSantaLogo from './assets/pump-santa.webp'
 import dexScreenLogo from './assets/dexscreener-logo.jpg'
 import photonSolLogo from './assets/photon-sol-logo.png'
 import styles from './dex-list.module.scss'
-import { TIcon } from '../../shared/logo'
+import { TIcon } from '../../logo'
 
 const ICON_SIZE = 40
 

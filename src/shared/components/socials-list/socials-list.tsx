@@ -1,4 +1,4 @@
-import { TIcon } from '../../shared/logo'
+import { TIcon } from '../../logo'
 import tgLogo from './assets/telegram.png'
 import discordLogo from './assets/discord.png'
 import xLogo from './assets/twitter.png'

@@ -1,5 +1,5 @@
 import styles from './me.module.scss'
-import me from '../../../public/me.png'
+import me from './me.png'
 
 type MeProps = Omit<
   React.DetailedHTMLProps<
