@@ -2,6 +2,7 @@ import { TIcon } from '../../logo'
 import tgLogo from './assets/telegram.png'
 import discordLogo from './assets/discord.png'
 import xLogo from './assets/twitter.png'
+import githubLogo from './assets/github.png'
 import styles from './socials-list.module.scss'
 
 const ICON_SIZE = 40
@@ -21,6 +22,11 @@ const SOCIALS_LIST: TIcon[] = [
     alt: 'X',
     href: 'https://x.com/MaxD_onSol',
     logo: xLogo,
+  },
+  {
+    alt: 'github',
+    href: 'https://github.com/maxd-sol',
+    logo: githubLogo,
   },
 ]
 
