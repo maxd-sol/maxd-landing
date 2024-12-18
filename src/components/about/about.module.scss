@@ -1,0 +1,16 @@
+.container {
+  padding-left: 4rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  margin: 0;
+  font-size: 4rem;
+  font-weight: 400;
+}
+
+.list {
+  padding-inline-start: 0px;
+  font-size: 2rem;
+}

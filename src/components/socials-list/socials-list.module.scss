@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  margin: 0;
+  font-size: 44px;
+}
+
+.list {
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  list-style: none;
+}

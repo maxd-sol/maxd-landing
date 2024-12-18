@@ -1,0 +1,8 @@
+.me {
+  max-height: 640px;
+  max-width: 194px;
+  @media (max-width: 560px) {
+    margin-top: 6rem;
+    max-height: 360px;
+  }
+}
